@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soad
+- 👋 Hi, I’m @Tokyo
 - 👀 I’m interested in self learning
 - 🌱 I’m currently learning coding / japanese
 - 💞️ I’m looking to collaborate on ...
